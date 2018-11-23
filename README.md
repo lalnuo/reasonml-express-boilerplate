@@ -1,5 +1,5 @@
 # ReasonML + Express.js boilerplate
-A bare minimum ReasonML + Express.js boilerplate
+A bare minimum ReasonML + Express.js boilerplate. For great examples check https://github.com/reasonml-community/bs-express/blob/master/example/Index.re
 
 # Build
 ```
